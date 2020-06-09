@@ -9,7 +9,7 @@ Il doit contenir une génération procédurale de la map et une IA qui se dépla
 ## Introduction du sujet et problème à résoudre
 Pour ce jeu j’ai dû créer une IA qui se déplace sur un chemin calcule par l’algorithme de pathfinding A*, un algorithme de recherche de chemin dans un graphe entre un nœud initial et un nœud final (nodes en anglais).
 
-//image exemple A*
+![](https://worgaros.github.io/Images/Astar ex.png)
 
 
 ## Développement
@@ -87,7 +87,7 @@ Quand un chemin est trouvé l’IA va l’emprunter:
 
 
 ## Sources et liens
-### Image utilise dans ce document :
+### Image utilisée dans ce document :
 [https://media.geeksforgeeks.org/wp-content/uploads/a_-search-algorithm-1.png]( https://media.geeksforgeeks.org/wp-content/uploads/a_-search-algorithm-1.png)
 
 
