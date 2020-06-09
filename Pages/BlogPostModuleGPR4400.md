@@ -9,6 +9,8 @@ Il doit contenir une génération procédurale de la map et une IA qui se dépla
 ## Introduction du sujet et problème à résoudre
 Pour ce jeu j’ai dû créer une IA qui se déplace sur un chemin calcule par l’algorithme de pathfinding A*, un algorithme de recherche de chemin dans un graphe entre un nœud initial et un nœud final (nodes en anglais).
 
+Voici un exemple visuel de l’algorithme :
+
 ![](https://worgaros.github.io/Images/Astar ex.png)
 
 
@@ -19,9 +21,14 @@ Pour commencer j’ai dû créer un Waypoint Graph, c’est ensemble de nodes (n
 Il a d’abord fallu récupérer les deux tilemaps qui forment la map du jeu pour poser les nodes sur chaque tile:
 
 ![](https://worgaros.github.io/Images/recup tilemap.PNG)
+
+Ici on récupère les tilemaps ou sont généré procéduralement les tiles formant une map avec des murs dans l’une des tilemaps et le sol dans l’autre.
+
 ![](https://worgaros.github.io/Images/node gen.PNG)
 
-Texte
+Ici on place une node sur la position de chaque tile, on les mets toutes en non libres (l’IA ne pourra pas marcher sur ces tiles) et l’on met ensuite toute les nodes qui sont sur des position de tile de la tilemap du sol en libre.
+
+Voici un visuel du résultat:
 
 ![](https://worgaros.github.io/Images/nodes.PNG)
 
@@ -29,7 +36,9 @@ Il a ensuite fallu relier les nodes voisines entre elles:
 
 ![](https://worgaros.github.io/Images/voisins.PNG)
 
-Texte
+Ici on regarde pour chaque node si on peut faire des raycast en direction des nodes autour d’elle et si c’est le cas et que c’est une node libre on la rajoute à ses voisins.
+
+Voici un exemple visuel du résultat:
 
 ![](https://worgaros.github.io/Images/neighbors.PNG)
 
@@ -100,3 +109,4 @@ Quand un chemin est trouvé l’IA va l’emprunter:
 
 
 ### [Retour à la page principale](https://worgaros.github.io/)
+
