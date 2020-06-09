@@ -69,7 +69,7 @@ On effectue ça en prenant chaque node voisine ayant le moins de cout jusqu’à
 
 ![](https://worgaros.github.io/Images/retrace.PNG)
 
-Quand on atteint la node finale cette fonction retrace toute les nodes du chemin trouvé pour s’ajouter entre elles en parents (cela permettra à l’IA de se déplacer en allant de parent en parent)
+Quand on atteint la node finale cette fonction retrace toute les nodes du chemin trouvé pour s’ajouter entre elles en parents (cela permettra à l’IA de se déplacer en allant de parent en parent).
 
 Voici un exemple visuel du résultat:
 
@@ -81,20 +81,39 @@ Pour que l’IA effectue des actions dans le jeu il a fallu faire une machine d�
 
 ![](https://worgaros.github.io/Images/state machine.PNG)
 
+La machine d’état est composée de 3 parties, une recherche de position d’une boite aléatoire sur la map, la recherche du chemin pour aller au camion et le déplacement sur le chemin trouvé.
+
 De base on va chercher un chemin vers une boite aléatoire à ramasser sur la map :
 
 ![](https://worgaros.github.io/Images/box path.PNG)
+
+Ici on prends la position d’une boite aléatoire et la position de l’IA et on appelle la fonction de pathfinding qui trouve le chemin entre les deux.
+
+Voici un exemple visuel du résultat:
+
 ![](https://worgaros.github.io/Images/go box.PNG)
 
 Une fois la boite récupérée on va chercher un chemin pour la ramener au camion :
 
 ![](https://worgaros.github.io/Images/truck path.PNG)
+
+Ici on prend la position de départ de l’IA qui est la node permettant d’accéder au camion et la position de l’IA et on appelle la fonction de pathfinding qui trouve le chemin entre les deux.
+
+Voici un exemple visuel du résultat:
+
 ![](https://worgaros.github.io/Images/go truck.PNG)
 
 Quand un chemin est trouvé l’IA va l’emprunter:
 
 ![](https://worgaros.github.io/Images/follow path code.PNG)
+
+
 ![](https://worgaros.github.io/Images/follow path fonction.PNG)
+
+Ici on déplace l’IA grâce a sa velocity vers le parent de la node actuelle, quand on arrive au parent l’IA se dirige vers le parent de celle-ci et ainsi de suite jusqu’à la node finale.
+
+Voici un exemple visuel du résultat:
+
 ![](https://worgaros.github.io/Images/follow path.gif)
 
 
