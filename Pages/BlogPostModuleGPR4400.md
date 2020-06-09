@@ -118,7 +118,7 @@ Voici un exemple visuel du résultat:
 
 
 ## Conclusion
- Pour conclure, l’algorithme A* de ce projet peut être utilise dans d’autre jeux comme par exemple un jeu qui n’utilise pas de tilemap. Il faudrait mettre à la main les nodes un par un.
+ Pour conclure, l’algorithme A* de ce projet peut être utilise dans d’autre jeux comme par exemple un jeu qui n’utilise pas de tilemap. Il faudrait mettre à la main les nodes une par une.
 
 
 ## Sources et liens
