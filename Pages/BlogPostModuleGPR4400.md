@@ -26,7 +26,7 @@ Ici on récupère les tilemaps ou sont généré procéduralement les tiles form
 
 ![](https://worgaros.github.io/Images/node gen.PNG)
 
-Ici on place une node sur la position de chaque tile, on les mets toutes en non libres (l’IA ne pourra pas marcher sur ces tiles) et l’on met ensuite toute les nodes qui sont sur des position de tile de la tilemap du sol en libre.
+Ici on place une node sur la position de chaque tile, on les met toutes en non libres (l’IA ne pourra pas marcher sur ces tiles) et l’on met ensuite toute les nodes qui sont sur des position de tile de la tilemap du sol en libre.
 
 Voici un visuel du résultat:
 
@@ -36,7 +36,7 @@ Il a ensuite fallu relier les nodes voisines entre elles:
 
 ![](https://worgaros.github.io/Images/voisins.PNG)
 
-Ici on regarde pour chaque node si on peut faire des raycast en direction des nodes autour d’elle et si c’est le cas et que c’est une node libre on la rajoute à ses voisins.
+Ici on regarde pour chaque node si on peut faire des raycast en direction des nodes autour d’elle et si le raycast ne rentre pas en contact avec un collider et que c’est une node libre on la rajoute à ses voisins.
 
 Voici un exemple visuel du résultat:
 
@@ -109,4 +109,3 @@ Quand un chemin est trouvé l’IA va l’emprunter:
 
 
 ### [Retour à la page principale](https://worgaros.github.io/)
-
