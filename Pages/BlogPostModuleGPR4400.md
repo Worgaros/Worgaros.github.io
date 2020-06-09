@@ -13,10 +13,13 @@ Il doit contenir une génération procédurale de la map et une IA qui se dépla
 ## Developpement
 ### Waypoint Graph System
 * //texte
+
 ### Spawn
 * //texte
+
 ### Algo A*
 * //texte
+
 ### State Machine IA et fonctions
 * //texte
 
