@@ -50,7 +50,7 @@ Dans le contexte de mon jeu, il a fallu faire spawner le joueur a la position de
 
 ![](https://worgaros.github.io/Images/spawn ia.PNG)
 
-Texte
+Voici un exemple visuel du résultat:
 
 ![](https://worgaros.github.io/Images/player spawn.PNG)
 
