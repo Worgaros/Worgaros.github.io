@@ -78,8 +78,8 @@ Quand un chemin est trouvé l’IA va l’emprunter:
 
 ![](https://worgaros.github.io/Images/go box.PNG)
 ![](https://worgaros.github.io/Images/go box.PNG)
-![](https://worgaros.github.io/Images/go box.PNG)
-![](https://worgaros.github.io/Images/go box.PNG)
+![](https://worgaros.github.io/Images/follow path fonction.PNG)
+![](https://worgaros.github.io/Images/follow path.gif)
 
 
 ## Conclusion
