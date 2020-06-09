@@ -12,13 +12,13 @@ Il doit contenir une génération procédurale de la map et une IA qui se dépla
 
 ## Developpement
 ### Waypoint Graph System
-* 
+* //texte
 ### Spawn
-*
+* //texte
 ### Algo A*
-*
+* //texte
 ### State Machine IA et fonctions
-*
+* //texte
 
 ## Conclusion
  Pour conclure, l’algorithme A* de ce projet peut être utilise dans d’autre jeux comme par exemple un jeu qui n’utilise pas de Tilemap. Il faudrait mettre à la main les nodes un par un.
