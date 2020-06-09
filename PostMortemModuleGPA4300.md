@@ -19,5 +19,4 @@
  Le projet s'est plutot bien passé dans l'ensemble et le principal est implémenté.
 
 
-
 [Retour à la page principale](https://worgaros.github.io/)
