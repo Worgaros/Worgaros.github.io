@@ -6,7 +6,7 @@ Le jeu a été créé dans le cadre du module GPR4400.2, le module intelligence 
 Il doit contenir une génération procédurale de la map et une IA qui se déplace sur un chemin calculer par un algorithme de pathfinding. L’IA doit également réagir en fonction du monde qui l’entoure.
  
 ## Introduction du sujet et problème à résoudre
-* Pour ce jeu j’ai dû créer une IA qui se déplace sur un chemin calcule par l’algorithme de pathfinding A*, un algorithme de recherche de chemin dans un graphe entre un nœud initial et un nœud final (nodes en anglais).
+Pour ce jeu j’ai dû créer une IA qui se déplace sur un chemin calcule par l’algorithme de pathfinding A*, un algorithme de recherche de chemin dans un graphe entre un nœud initial et un nœud final (nodes en anglais).
 
 //image exemple A*
 
