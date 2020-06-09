@@ -23,19 +23,43 @@ Il a ensuite fallu relier les nodes voisines entre elles:
 //images waypoint
 
 ### Spawn de l’IA
+Dans cette étape j’ai dû faire spawner l’IA sur la map.
 
+Dans le contexte de mon jeu, il a fallu faire spawner le joueur a la position de la node la plus en bas à droite :
+
+//images IA sur map
 
 ### Algo A*
-* //texte
+Pour trouver le chemin à emprunter il a fallu utiliser l’algorithme A* :
+
+//images a*
 
 ### State Machine IA et fonctions
-* //texte
+Pour que l’IA effectue des actions dans le jeu il a fallu faire une machine d’état qui lui dicte ses actions à suivre en fonctions des certains paramètres dans le jeu :
+
+//image State Machine
+
+De base on va chercher un chemin vers une boite aléatoire à ramasser sur la map :
+
+//images chemin box
+
+Une fois la boite récupérée on va chercher un chemin pour la ramener au camion :
+
+//images chemin camion
+
+Quand un chemin est trouvé l’IA va l’emprunter:
+
+//images parcourir chemin
 
 ## Conclusion
- Pour conclure, l’algorithme A* de ce projet peut être utilise dans d’autre jeux comme par exemple un jeu qui n’utilise pas de Tilemap. Il faudrait mettre à la main les nodes un par un.
+ Pour conclure, l’algorithme A* de ce projet peut être utilise dans d’autre jeux comme par exemple un jeu qui n’utilise pas de tilemap. Il faudrait mettre à la main les nodes un par un.
 
-## Sources
-* https://media.geeksforgeeks.org/wp-content/uploads/a_-search-algorithm-1.png
+## Sources et liens
+### Image utilise dans ce document :
+[https://media.geeksforgeeks.org/wp-content/uploads/a_-search-algorithm-1.png]( https://media.geeksforgeeks.org/wp-content/uploads/a_-search-algorithm-1.png)
+
+### Tutoriel suivit :
+[https://youtu.be/AKKpPmxx07w?t=995](https://youtu.be/AKKpPmxx07w?t=995)
 
 
 ### [Retour à la page principale](https://worgaros.github.io/)
