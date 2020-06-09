@@ -10,9 +10,14 @@ Il doit contenir une génération procédurale de la map et une IA qui se dépla
 
 //image exemple A*
 
-## Developpement
+## Développement
 ### Waypoint Graph System
-* //texte
+Pour commencer j’ai dû créer un Waypoint Graph, c’est ensemble de nodes (nœuds) reliés entre eux.
+Il a d’abord fallu récupérer les deux tilemaps contenant la map du jeu pour poser les nodes sur chaque tile.
+
+//images nodes
+
+Il a ensuite fallu relier 
 
 ### Spawn
 * //texte
