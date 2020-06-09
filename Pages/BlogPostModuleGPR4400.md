@@ -60,11 +60,18 @@ Pour trouver le chemin à emprunter il a fallu utiliser l’algorithme A* :
 
 ![](https://worgaros.github.io/Images/Astar.PNG)
 
-Texte
+Ici on regarde le cout de trajet vers les nodes qui entoure la node actuelle (on commence par la node de départ) puis on regarde si la node n’est pas la node que l’on veut atteindre.
+
+Si la node actuelle n’est pas la node d’arrivée on rajoute au cout le cout de l’heuristique qui est la distance entre la node actuelle et la node d’arrivée ce qui permet à l’algorithme de tendre plus rapidement vers la node d’arrivée.
+
+On effectue ça en prenant chaque node voisine ayant le moins de cout jusqu’à arriver a la node objectif.
+
 
 ![](https://worgaros.github.io/Images/retrace.PNG)
 
+Quand on atteint la node finale cette fonction retrace toute les nodes du chemin trouvé pour s’ajouter entre elles en parents (cela permettra à l’IA de se déplacer en allant de parent en parent)
 
+Voici un exemple visuel du résultat:
 
 ![](https://worgaros.github.io/Images/go box.PNG)
 
