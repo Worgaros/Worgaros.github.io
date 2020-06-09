@@ -1,3 +1,2 @@
-
-
-![](https://raw.githubusercontent.com/Worgaros/Worgaros.github.io/master/Images/Mario%2Bchampi.png)
+[Links](https://worgaros.github.io/BlogPostModuleGPR4400)
+[Links](https://worgaros.github.io/PostMortemModuleGPA4300)
