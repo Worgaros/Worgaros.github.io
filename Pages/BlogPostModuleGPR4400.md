@@ -52,33 +52,34 @@ Pour trouver le chemin à emprunter il a fallu utiliser l’algorithme A* :
 
 Texte
 
-![](https://worgaros.github.io/Images/player spawn.PNG)
+![](https://worgaros.github.io/Images/retrace.PNG)
 
 
 
-![](https://worgaros.github.io/Images/player spawn.PNG)
-
-
-
-![](https://worgaros.github.io/Images/player spawn.PNG)
+![](https://worgaros.github.io/Images/go box.PNG)
 
 
 ### State Machine IA et fonctions
 Pour que l’IA effectue des actions dans le jeu il a fallu faire une machine d’état qui lui dicte ses actions à suivre en fonctions des certains paramètres dans le jeu :
 
-//image State Machine
+![](https://worgaros.github.io/Images/state machine.PNG)
 
 De base on va chercher un chemin vers une boite aléatoire à ramasser sur la map :
 
-//images chemin box
+![](https://worgaros.github.io/Images/box path.PNG)
+![](https://worgaros.github.io/Images/go box.PNG)
 
 Une fois la boite récupérée on va chercher un chemin pour la ramener au camion :
 
-//images chemin camion
+![](https://worgaros.github.io/Images/truck path.PNG)
+![](https://worgaros.github.io/Images/go truck.PNG)
 
 Quand un chemin est trouvé l’IA va l’emprunter:
 
-//images parcourir chemin
+![](https://worgaros.github.io/Images/go box.PNG)
+![](https://worgaros.github.io/Images/go box.PNG)
+![](https://worgaros.github.io/Images/go box.PNG)
+![](https://worgaros.github.io/Images/go box.PNG)
 
 
 ## Conclusion
