@@ -18,6 +18,7 @@ Pour commencer j’ai dû créer un Waypoint Graph, c’est ensemble de nodes (n
 
 Il a d’abord fallu récupérer les deux tilemaps qui forment la map du jeu pour poser les nodes sur chaque tile:
 
+![](https://worgaros.github.io/Images/recup tilemap.PNG)
 ![](https://worgaros.github.io/Images/node gen.PNG)
 
 Texte
@@ -76,8 +77,7 @@ Une fois la boite récupérée on va chercher un chemin pour la ramener au camio
 
 Quand un chemin est trouvé l’IA va l’emprunter:
 
-![](https://worgaros.github.io/Images/go box.PNG)
-![](https://worgaros.github.io/Images/go box.PNG)
+![](https://worgaros.github.io/Images/follow path code.PNG)
 ![](https://worgaros.github.io/Images/follow path fonction.PNG)
 ![](https://worgaros.github.io/Images/follow path.gif)
 
