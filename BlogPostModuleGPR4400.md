@@ -1,14 +1,14 @@
-# Blog post technique du module GPR440
+# Blog post technique du module GPR440 du jeu ''It's mine''
 
 ## Remise en contexte du projet
- OBG Racing Evolved est un jeu 2D vue du dessus sur mobile Android où l'on dirige une voiture qui doit eviter des obstacles et ne pas sortir de la piste pour atteindre la fin de chaque niveau. Le jeu ce joue avec le tactile de l'écran, un slide pour changer de sens et un clic pour changer de voie.
+
  
 ## Ambitions et objetcifs
-- Créer un jeu mobile 2D jouable avec qu'un seul doigt.
+* Créer un jeu mobile 2D jouable avec qu'un seul doigt.
 * Avoir plusieurs niveaux et obstacles.
 
 ## Points positifs
-+ Le jeu possède les méchaniques de base comme le déplacement et le shop.
+* Le jeu possède les méchaniques de base comme le déplacement et le shop.
 * Il est fonctionnel et possède plusieurs niveaux jouables. 
 * La création des niveaux à été plutot simple.
 
