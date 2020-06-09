@@ -2,6 +2,7 @@
 
 ## Remise en contexte du projet
 Le jeu a été créé dans le cadre du module GPR4400.2, le module intelligence artificielle et génération procédurale de la première année de Games Programming à l’école SAE Institute Genève.
+
 Il doit contenir une génération procédurale de la map et une IA qui se déplace sur un chemin calculer par un algorithme de pathfinding. L’IA doit également réagir en fonction du monde qui l’entoure.
  
 ## Introduction du sujet et problème à résoudre
@@ -25,7 +26,6 @@ Il doit contenir une génération procédurale de la map et une IA qui se dépla
 
 ## Sources
 * https://media.geeksforgeeks.org/wp-content/uploads/a_-search-algorithm-1.png
-
 
 
 ### [Retour à la page principale](https://worgaros.github.io/)
