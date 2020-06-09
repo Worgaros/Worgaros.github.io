@@ -13,13 +13,15 @@ Pour ce jeu j’ai dû créer une IA qui se déplace sur un chemin calcule par l
 ## Développement
 ### Waypoint Graph System
 Pour commencer j’ai dû créer un Waypoint Graph, c’est ensemble de nodes (nœuds) reliés entre eux.
-Il a d’abord fallu récupérer les deux tilemaps contenant la map du jeu pour poser les nodes sur chaque tile.
+Il a d’abord fallu récupérer les deux tilemaps qui forment la map du jeu pour poser les nodes sur chaque tile:
 
 //images nodes
 
-Il a ensuite fallu relier 
+Il a ensuite fallu relier les nodes voisines entre elles:
 
-### Spawn
+//images waypoint
+
+### Spawn de l’IA
 * //texte
 
 ### Algo A*
