@@ -59,7 +59,8 @@ Quand un chemin est trouvé l’IA va l’emprunter:
 [https://media.geeksforgeeks.org/wp-content/uploads/a_-search-algorithm-1.png]( https://media.geeksforgeeks.org/wp-content/uploads/a_-search-algorithm-1.png)
 
 ### Tutoriel suivit :
-[https://youtu.be/AKKpPmxx07w?t=995](https://youtu.be/AKKpPmxx07w?t=995)
+[https://youtu.be/AKKpPmxx07w](https://youtu.be/AKKpPmxx07w)
+
 
 
 ### [Retour à la page principale](https://worgaros.github.io/)
