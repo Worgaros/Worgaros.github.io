@@ -1,4 +1,4 @@
-# Blog post technique du module GPR440 du jeu ''It's mine''
+# Blog post technique du jeu ''It's mine'' pour le module GPR440
 
 ## Remise en contexte du projet
 
