@@ -1,7 +1,7 @@
 # Blog post technique du jeu "It's mine" pour le module GPR440
 
 ## Remise en contexte du projet
-Le jeu "
+Le jeu a ete cree dans le cadre du module GPR4400.2
  
 ## Ambitions et objetcifs
 * Créer un jeu mobile 2D jouable avec qu'un seul doigt.
