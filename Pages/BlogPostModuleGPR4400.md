@@ -61,6 +61,10 @@ Quand un chemin est trouvé l’IA va l’emprunter:
 ### Tutoriel suivit :
 [https://youtu.be/AKKpPmxx07w](https://youtu.be/AKKpPmxx07w)
 
+### Lien du repo GitHub du projet:
+[https://github.com/eleonoradps/ItsMine]( https://github.com/eleonoradps/ItsMine)
+
+
 
 
 ### [Retour à la page principale](https://worgaros.github.io/)
