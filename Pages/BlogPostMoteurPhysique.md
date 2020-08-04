@@ -1,4 +1,4 @@
-# Blog post technique du moteur physique" pour le module GPR4400
+# Blog post technique du moteur physique pour le module GPR4400
 
 ## Remise en contexte du projet
 Le jeu a été créé dans le cadre du module GPR4400.1, le module moteur physique de la première année de Games Programming à l’école SAE Institute Genève.
