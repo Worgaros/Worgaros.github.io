@@ -42,8 +42,7 @@ Il faut faire un QuadTree pour pouvoir séparer en plusieurs parties les objets 
 Il faut pour finir, en fonction du MTV reçu, recalculer la position, la direction et la vélocité des objets après collision.
 
 ## Conclusion
-
-
+Pour conclure, ce projet a été le plus dur de l'année, je suis content d'avoir réussi à faire un début de détection de collision mais il reste encore une grosse partie à faire.
 
 ## Liens
 [https://box2d.org/documentation/index.html](https://box2d.org/documentation/index.html)
