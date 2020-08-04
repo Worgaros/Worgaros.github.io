@@ -7,11 +7,12 @@ Le moteur doit pouvoir générer de la physique rigide en 2D. Il doit y avoir di
 
 ## Développement
 ### Détection de collision entre AABB
-Il a d’abord fallu faire une fonction qui regarde si deux AABB se superpose:
+Il a d’abord fallu faire une fonction qui regarde si deux AABB se superposent:
 
 ![](https://worgaros.github.io/Images/AABB.PNG)
 
 Il a ensuite fallu faire des fonctions pour créer les AABB pour les 3 formes différentes (Box, cercle et polygone):
+
 
 ![](https://worgaros.github.io/Images/shapeBox.PNG)
 ![](https://worgaros.github.io/Images/shapeCircle.PNG)
