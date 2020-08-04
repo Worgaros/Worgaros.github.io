@@ -12,8 +12,8 @@ Le moteur doit pouvoir générer de la physique rigide en 2D. Il doit y avoir di
 ## Développement
 ### 
 
-![](https://worgaros.github.io/Images/col.png)
-![](https://worgaros.github.io/Images/pascol.png)
+![](https://worgaros.github.io/Images/col.PNG)
+![](https://worgaros.github.io/Images/pascol.PNG)
 
 
 ## Conclusion
