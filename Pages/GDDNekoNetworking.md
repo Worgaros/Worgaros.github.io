@@ -9,7 +9,8 @@
 The player can move from top to bottom and from left to right but can't turn.
 To move the player have to use wasd keys.
 
-![](https://worgaros.github.io/Images/game.png)
+![](https://worgaros.github.io/Images/game.PNG)
+
 
 ## Physique
 * When a car touch the ball, the ball take his velocity and direction.
