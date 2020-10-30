@@ -12,7 +12,7 @@
 ![](https://worgaros.github.io/Images/game.PNG)
 
 
-## Physique
+## Physics
 * When a car touch the ball, the ball take his velocity and direction.
 
 ![](https://worgaros.github.io/Images/balldir.PNG)
