@@ -39,4 +39,4 @@
 * I have to change game rules in the game manager.
 
 
-### [Retour à la page principale](https://worgaros.github.io/)
+### [Back to main page](https://worgaros.github.io/)
