@@ -13,7 +13,7 @@ To move the player have to use wasd keys.
 
 ## Physique
 * When a car touch the ball, the ball take his velocity and direction.
-If two cars touch it, the ball take both velocity and go in a perpendicular direction of the cars direction.
+If two cars touch it, the ball take both velocity and go in a perpendicular direction of cars direction.
 The ball slowed down until it stops.
 When both cars make contact the fastest destroy the other.
 If both cars have same velocity, they both explode.
