@@ -1,7 +1,7 @@
 # GDD Neko Networking - Cars Soccer 
 
 ## Introduction
- Cars Soccer is a multiplayer online game which you play a car.
+ Cars Soccer is a multiplayer online game where you play a car.
  You have to score goals, the first to 5 win.
  
 ## 3C
