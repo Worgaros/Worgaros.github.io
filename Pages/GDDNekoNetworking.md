@@ -34,7 +34,6 @@
 
 
 ## Networking
-* I have to do create and destroy functions to be able to respawn cars or the ball if it's detroy or created before the last validate frame.
 * I have to modify some controls inputs in the input manager.
 * I have to change game rules in the game manager.
 
