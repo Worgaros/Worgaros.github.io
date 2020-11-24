@@ -12,6 +12,8 @@ Cars Soccer is a 2D multiplayer online game inspired by Rocket League. You play 
 
 ### Start of the game
 
+At the start when a player is connected his car spawn, when the two cars are spawned a countdown is lauched before the game start
+
 ### Cars
 
 ### Ball
