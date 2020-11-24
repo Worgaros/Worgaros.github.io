@@ -16,6 +16,8 @@ At the start when a player is connected his car spawn, when the two cars are spa
 
 ### Cars
 
+You can use up and down keys to accelerate and slow down. You have to use left and right keys to turn your car.
+
 ### Ball
 
 ### End of the game
