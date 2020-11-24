@@ -44,4 +44,4 @@ When a player have no more life the other player win the game and the game stops
 
 ![](https://worgaros.github.io/Images/wincar.gif)
 
-### [Retour à la page principale](https://worgaros.github.io/)
+### [Return to main page](https://worgaros.github.io/)
