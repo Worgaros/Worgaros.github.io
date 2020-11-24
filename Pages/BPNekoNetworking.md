@@ -2,17 +2,17 @@
 
 ## Introduction
 
-As part of the 5100 module we have to create an online multiplayer game using the NekoEngine game engine, internal game engine at the SAE Institute Geneva school. This game must include at least one playable level and an interface for connecting at least two players.
+As part of the 5100 module we have to create an online multiplayer game using the NekoEngine game engine, internal game engine at the SAE Institute Geneva. This game must include at least one playable level and an interface for connecting at least two players.
 
 ## Pitch
 
-Cars Soccer is a 2D multiplayer online game inspired by Rocket League. You play car and you have to score goals.
+Cars Soccer is a 2D online multiplayer game inspired by Rocket League. You play a car and you have to score goals.
 
 ## Mechanics
 
 ### Start of the game
 
-At the start when a player is connected his car spawn, when the two cars are spawned a countdown is lauched before the game start
+At the start when a player logs his car spawn, when the two cars are spawned a countdown is launched before the game start.
 
 ![](https://worgaros.github.io/Images/startcar.gif)
 
@@ -40,7 +40,7 @@ When the ball touch the top or the bottom of the screen a goal is scored. Cars a
 
 ### End of the game
 
-When a player have no more life the other player win the game and the game stops.
+When a player have no more life the other player win the game and the game stopped.
 
 ![](https://worgaros.github.io/Images/wincar.gif)
 
