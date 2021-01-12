@@ -25,7 +25,7 @@ Once the right objects have been added to the list, the "export to Json" button 
 
 ![](https://worgaros.github.io/Images/savetojson.gif)
 
-Once the location is chosen, the variables of the SceneData class get the name of the scene as well as the list of tags and layers. Then the objects of the hierarchy are browsed except those contained in the list of objects to ignore. For each object and child of the objects an instantiation of the type of the Data class will be filled by the name of the object, its instance ID, the instance ID of the parent, the layer of the object, the tag of the object.It will also fill the class of components contained in the Data class. The SceneData class contains the list of Data filled previously.  Finally, everything contained in the SceneData class is converted to Json format and written to a file at the previously chosen location.
+Once the location is chosen, the variables of the SceneData class instantiation get the name of the scene as well as the list of tags and layers. Then the objects of the hierarchy are browsed except those contained in the list of objects to ignore. For each object and child of the objects an instantiation of the type of the Data class will be filled by the name of the object, its instance ID, the instance ID of the parent, the layer of the object, the tag of the object. It will also fill the class of components contained in the Data class. The SceneData class instantiation contains the list of Data filled previously.  Finally, everything contained in the SceneData class is converted to Json format and written to a file at the previously chosen location.
 Here is an example of the start of a file created:
 
 ![](https://worgaros.github.io/Images/json.PNG)
