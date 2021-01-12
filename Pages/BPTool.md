@@ -21,7 +21,7 @@ If you want to remove an object from this list, just click on the button to the 
 
 ![](https://worgaros.github.io/Images/allowobj.gif)
 
-
+Once the right objects have been added to the list, the "export to Json" button allows you to choose the location where to save the file. The basic name of the file is the name of the scene followed by the date and time.
 
 ![](https://worgaros.github.io/Images/savetojson.gif)
 
