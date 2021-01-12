@@ -1,6 +1,6 @@
 ## Introduction
 
-As part of the 5100 module we have to create a tool for the third year. The tool that we have to do with Solange Schmid (https://sosolamojo.github.io) is the Scene Exporter Tool, a tool who have to write unity scene objets in a json file.
+As part of the 5100 module we have to create a tool for the third year. The tool that we have to do with Solange Schmid ([https://sosolamojo.github.io]https://sosolamojo.github.io) is the Scene Exporter Tool, a tool who have to write unity scene objets in a json file.
 
 ## Tool
 
