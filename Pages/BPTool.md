@@ -4,15 +4,13 @@ As part of the 5100 module we have to create a tool for the third year. The tool
 
 ## Tool
 
-
+To display the tool, click on the "Tool" tab located on the top bar and then click on "Scene Exporter". It is then possible to place it wherever you want in the Unity interface.
 
 ![](https://worgaros.github.io/Images/openwin.gif)
 
-
-
+The tool interface was created using the Unity GUI functions. Here is a schema explaining the interface of the tool:
 
 ![](https://worgaros.github.io/Images/tool.PNG)
-
 
 
 
@@ -20,14 +18,11 @@ As part of the 5100 module we have to create a tool for the third year. The tool
 
 
 
-
 ![](https://worgaros.github.io/Images/allowobj.gif)
 
 
 
-
 ![](https://worgaros.github.io/Images/savetojson.gif)
-
 
 
 
