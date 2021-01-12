@@ -1,4 +1,4 @@
-# Scene Exporter technical blog-post
+# Scene Exporter Tool Technical Document
 
 
 ## Introduction
