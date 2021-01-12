@@ -13,11 +13,11 @@ Here is a schema explaining the interface of the tool:
 
 ![](https://worgaros.github.io/Images/tool.PNG)
 
-
+After selecting an object in the hierarchy, click the "Ignore object" button to add it to the list of objects to be ignored.
 
 ![](https://worgaros.github.io/Images/ignoreobj.gif)
 
-
+If you want to remove an object from this list, just click on the button to the right of the corresponding object.
 
 ![](https://worgaros.github.io/Images/allowobj.gif)
 
