@@ -1,6 +1,6 @@
 ## Introduction
 
-As part of the 5100 module we have to create a tool for the third year. The tool that we have to do with Solange Schmid ([https://sosolamojo.github.io](https://sosolamojo.github.io)) is the Scene Exporter Tool, a tool who have to write unity scene objets in a json file.
+As part of the 5100 module we have to create a tool for the third year. The tool that we have to do with Solange Schmid ([https://sosolamojo.github.io](https://sosolamojo.github.io)) is the Scene Exporter Tool, a tool who have to covert and write unity scene objets in a json format file.
 
 ## Tool
 
@@ -8,7 +8,8 @@ To display the tool, click on the "Tool" tab located on the top bar and then cli
 
 ![](https://worgaros.github.io/Images/openwin.gif)
 
-The tool interface was created using the Unity GUI functions. Here is a schema explaining the interface of the tool:
+The tool interface was created using the Unity GUI functions.
+Here is a schema explaining the interface of the tool:
 
 ![](https://worgaros.github.io/Images/tool.PNG)
 
