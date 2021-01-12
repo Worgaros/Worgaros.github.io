@@ -1,10 +1,10 @@
 ## Introduction
 
-As part of the 5100 module we have to create a tool for the third year. The tool that we have to do with Solange Schmid () is the Scene Exporter Tool, a tool who have to write unity scene objets in a json file.
+As part of the 5100 module we have to create a tool for the third year. The tool that we have to do with Solange Schmid (https://sosolamojo.github.io) is the Scene Exporter Tool, a tool who have to write unity scene objets in a json file.
 
 ## Tool
 
-At the start when a player logs his car spawn, when the two cars are spawned a countdown is launched before the game start.
+
 
 ![](https://worgaros.github.io/Images/openwin.gif)
 
@@ -29,10 +29,6 @@ When the ball touch the top or the bottom of the screen a goal is scored. Cars a
 sdsdsdsde
 
 ![](https://worgaros.github.io/Images/json.PNG)
-
-## Conclusion
-
-When a player have no more life the other player win the game and the game stopped.
 
 
 ### [Retour à la page principale](https://worgaros.github.io/)
