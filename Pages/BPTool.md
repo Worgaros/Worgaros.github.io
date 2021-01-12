@@ -32,4 +32,9 @@ Here is an example of the start of a file created:
 ![](https://worgaros.github.io/Images/json.PNG)
 
 
+##Challenges
+
+The challenges of this tool have been to work under the supervision of the 3rd year students and to respond to their requests, learn how to use the Unity GUI to create the window, buttons and labels, learn how to format a Json file and and to check the conformity of this file.
+
+
 ### [Back to main page](https://worgaros.github.io/)
