@@ -25,7 +25,7 @@ stb load the images whose path is specified in the .mtl of .obj.
 
 ### Lighting
 
-The ligthing technique applied to the models in the shaders is the Blinn phong methos.
+The ligthing technique applied to the models in the shaders is the Blinn phong method.
 It use ambient, diffuse and specular values to simulate lighting.
 It is not physically realistic but it gives a proper result for a simple demo scene.
 
@@ -37,7 +37,7 @@ To do my transparency houglass I use blending. It's a OpenGL functionality that 
 
 ### Normal Mapping
 
-
+Normal mapping allows models to use a normal map texture in addition to diffuse and specular textures.
 
 ### Stencil Buffer
 
