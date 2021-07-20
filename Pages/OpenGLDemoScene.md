@@ -23,8 +23,6 @@ Textures are images .png or .jpg. They are loaded with stb a library to load ima
 Assimp load each mesh to then be able to display them.
 stb load the images whose path is specified in the .mtl of .obj.
 
-![](https://worgaros.github.io/Images/openwin.gif)
-
 ### Lighting
 
 The ligthing technique applied to the models in shaders is the Blinn phong method.
@@ -48,7 +46,7 @@ Normal mapping allows models to use a normal map texture in addition to diffuse 
 The positions are calculated in tangent space instead of world space using TBN matrix who do the changement of space.
 Normals are extracted from the normal map, assimp can directly extract tangent and bi-tangent to calcul TBN matrix.
 
-![](https://worgaros.github.io/Images/openwin.gif)
+![](https://worgaros.github.io/Images/normalcompare.png)
 ![](https://worgaros.github.io/Images/normal.PNG)
 
 ### Stencil Buffer
