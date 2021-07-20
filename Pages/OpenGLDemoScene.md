@@ -78,9 +78,9 @@ It's very important when we draw hundreds or thousands of times the same model.
 I am happy to have learned a lot of computer graphics methods but I am not completely satisfied because if I have more time and especially if I will be able to manage my stress so as not to waste days having stress crises I could have added:
 
 - Frustum culling to don't draw object outside of the camera view.
-- HDR with tone mapping to go back to LDR.
 - Shadow map to use it with new object for the space library
 - PBR to have more realistic textures.
 - A camera with more complex movements like a camera that moves forward and turns, which does not just teleport.
+- Sounds to have a more alive scene feeling.
 
 ### [Back to main page](https://worgaros.github.io/)
