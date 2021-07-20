@@ -28,12 +28,12 @@ stb load the images whose path is specified in the .mtl of .obj.
 ### Lighting
 
 The ligthing technique applied to the models in shaders is the Blinn phong method.
-It use ambient, diffuse and specular values to simulate lighting.
+It use ambient, diffuse and specular with half way values to simulate lighting.
 It is not physically realistic but it gives a nice result for a simple demo scene.
 
 Textures are given to shaders and included in values of ambiant, diffuse and specular.
 
-![](https://worgaros.github.io/Images/openwin.gif)
+![](https://worgaros.github.io/Images/blinnphong.png)
 
 ### Blending
 
