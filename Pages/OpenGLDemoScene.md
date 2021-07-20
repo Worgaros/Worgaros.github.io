@@ -11,7 +11,7 @@ To do this demo scene I follow courses of my teachers Elias Farhan and Frederic 
 My scene consist of an spatial library of objects with different techniques of graphics techniques. The camera start at a position to see meteors and go front of the different objects each 10 seconds.
 Among present objects there are a hourglass, a cube, a F1 car and meteors.
 
-![](https://worgaros.github.io/Images/openwin.gif)
+![](https://worgaros.github.io/Images/openglscene.gif)
 
 ## Implementation
 
@@ -39,7 +39,7 @@ Textures are given to shaders and included in values of ambiant, diffuse and spe
 
 To do my transparency hourglass I use blending. It's a OpenGL functionality that allows to blend colors using the alpha value.
 
-![](https://worgaros.github.io/Images/openwin.gif)
+![](https://worgaros.github.io/Images/blending.PNG)
 
 ### Normal Mapping
 
@@ -49,14 +49,14 @@ The positions are calculated in tangent space instead of world space using TBN m
 Normals are extracted from the normal map, assimp can directly extract tangent and bi-tangent to calcul TBN matrix.
 
 ![](https://worgaros.github.io/Images/openwin.gif)
-![](https://worgaros.github.io/Images/openwin.gif)
+![](https://worgaros.github.io/Images/normal.PNG)
 
 ### Stencil Buffer
 
 To do my F1 car outline I use the stencil buffer.
 With the stencil buffer we use stencil mask to draw outlines around mesh by redrawing our mesh scale up, but with a unified color and without overriding the original mesh.
 
-![](https://worgaros.github.io/Images/openwin.gif)
+![](https://worgaros.github.io/Images/stencilbuffer.PNG)
 
 ### Skybox
 
@@ -74,7 +74,7 @@ To do my meteors I use instancing.
 Instancing is a method the draw the same model lots of times with just one draw call because all of their datas have already been loaded to the gpu.
 It's very important when we draw hundreds or thousands of times the same model.
 
-![](https://worgaros.github.io/Images/openwin.gif)
+![](https://worgaros.github.io/Images/instancing.PNG)
 
 ## Conclusion
 I am happy to have learned a lot of computer graphics methods but I am not completely satisfied because if I have more time and especially if I will be able to manage my stress so as not to waste days having stress crises I could have added:
