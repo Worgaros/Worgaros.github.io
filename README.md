@@ -12,4 +12,4 @@
 
 ## [Blog Post Scene Exporter Tool](https://worgaros.github.io/Pages/BPTool
 
-## [Blog Post OpenGl Demo Scene](https://worgaros.github.io/Pages/OpenGlDemoScene)
+## [Blog Post OpenGl Demo Scene](https://worgaros.github.io/Pages/OpenGLDemoScene)
