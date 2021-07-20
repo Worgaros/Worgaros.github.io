@@ -62,7 +62,7 @@ To do the background of my scene I use a cubemap.
 Cubemap is a graphic technique that gives the illusion that a three-dimensional space is infinite around you. 
 We use textures for each side of the cube.
 
-![](https://worgaros.github.io/Images/openwin.gif)
+![](https://worgaros.github.io/Images/skybox.PNG)
 
 ## Optimisation
 
