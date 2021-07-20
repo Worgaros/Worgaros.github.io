@@ -39,6 +39,7 @@ To do my transparency houglass I use blending. It's a OpenGL functionality that 
 
 ### Normal Mapping
 
+To do my cube I use normal mapping.
 Normal mapping allows models to use a normal map texture in addition to diffuse and specular textures.
 The positions are calculated in tangent space instead of world space using TBN matrix who do the changement of space.
 Normals are extracted from the normal map, assimp can directly extact tangent and bitangent.
@@ -47,9 +48,16 @@ Normals are extracted from the normal map, assimp can directly extact tangent an
 
 ### Stencil Buffer
 
+To do my F1 car outline I use the stencil buffer.
+With the stencil buffer we use stencil mask to draw outlines around mesh by redrawing our mesh scale up, but with a unified color and without overriding the original mesh.
+
 
 
 ### Instancing
+
+To do my meteors I use instancing.
+Instancing is a method the draw the same model lots of times with just one draw call because all of their datas have already been loaded to the gpu.
+It's very important when we draw hundreds or thousands of times the same model.
 
 
 
