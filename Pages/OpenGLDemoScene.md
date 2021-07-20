@@ -35,9 +35,15 @@ Textures are given to shaders and included in values of ambiant, diffuse and spe
 
 To do my transparency houglass I use blending. It's a OpenGL functionality that allows to blend colors using the alpha value.
 
+
+
 ### Normal Mapping
 
 Normal mapping allows models to use a normal map texture in addition to diffuse and specular textures.
+The positions are calculated in tangent space instead of world space using TBN matrix who do the changement of space.
+Normals are extracted from the normal map, assimp can directly extact tangent and bitangent.
+
+
 
 ### Stencil Buffer
 
