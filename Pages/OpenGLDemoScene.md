@@ -1,4 +1,4 @@
-# Scene Exporter Tool Technical Document
+# OpenGL Demo Scene Technical Document
 
 
 ## Introduction
