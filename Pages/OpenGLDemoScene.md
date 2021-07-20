@@ -17,7 +17,8 @@ Among present objects there are a hourglass, a cube, a F1 car and meteors.
 
 ### Model Loading
 
-
+Objects are .obj with their materials files. They are loaded with Assimp a library to load 3D models.
+Textures are images .png or . jpg. They are loaded with stb 
 
 ### Lighting
 
