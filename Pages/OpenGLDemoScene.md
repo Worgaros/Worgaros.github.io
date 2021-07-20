@@ -18,7 +18,10 @@ Among present objects there are a hourglass, a cube, a F1 car and meteors.
 ### Model Loading
 
 Objects are .obj with their materials files. They are loaded with Assimp a library to load 3D models.
-Textures are images .png or . jpg. They are loaded with stb 
+Textures are images .png or .jpg. They are loaded with stb a library to load images.
+
+Assimp load each mesh to then be able to display them.
+stb load the images whose path is specified in the .mtl of .obj.
 
 ### Lighting
 
