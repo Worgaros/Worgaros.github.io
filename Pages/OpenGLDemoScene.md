@@ -8,7 +8,8 @@ To do this demo scene I follow courses of my teachers Elias Farhan and Frederic 
 
 ## Scene
 
-
+My scene consist of an spatial library of objects where a objects with differents techniques of graphics techniques. The camera start at a position to see meteors and go front of the different objects each 10 seconds.
+Among present objects there are a hourglass, a cube, a F1 car and meteors.
 
 ![](https://worgaros.github.io/Images/openwin.gif)
 
