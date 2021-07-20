@@ -12,6 +12,7 @@ My scene consist of an spatial library of objects with different graphics techni
 Among present objects there are a hourglass, a cube, a F1 car and meteors.
 
 ![](https://worgaros.github.io/Images/openglscene.gif)
+(The remaining pixels are due to the poor quality of the gif and not to my scene)
 
 ## Implementation
 
