@@ -23,6 +23,8 @@ Textures are images .png or .jpg. They are loaded with stb a library to load ima
 Assimp load each mesh to then be able to display them.
 stb load the images whose path is specified in the .mtl of .obj.
 
+![](https://worgaros.github.io/Images/openwin.gif)
+
 ### Lighting
 
 The ligthing technique applied to the models in the shaders is the Blinn phong method.
@@ -31,11 +33,13 @@ It is not physically realistic but it gives a proper result for a simple demo sc
 
 Textures are given to shaders and included in values of ambiant, diffuse and specular.
 
+![](https://worgaros.github.io/Images/openwin.gif)
+
 ### Blending
 
 To do my transparency houglass I use blending. It's a OpenGL functionality that allows to blend colors using the alpha value.
 
-
+![](https://worgaros.github.io/Images/openwin.gif)
 
 ### Normal Mapping
 
@@ -44,13 +48,15 @@ Normal mapping allows models to use a normal map texture in addition to diffuse 
 The positions are calculated in tangent space instead of world space using TBN matrix who do the changement of space.
 Normals are extracted from the normal map, assimp can directly extact tangent and bitangent.
 
-
+![](https://worgaros.github.io/Images/openwin.gif)
+![](https://worgaros.github.io/Images/openwin.gif)
 
 ### Stencil Buffer
 
 To do my F1 car outline I use the stencil buffer.
 With the stencil buffer we use stencil mask to draw outlines around mesh by redrawing our mesh scale up, but with a unified color and without overriding the original mesh.
 
+![](https://worgaros.github.io/Images/openwin.gif)
 
 ## Optimisation
 
@@ -60,7 +66,7 @@ To do my meteors I use instancing.
 Instancing is a method the draw the same model lots of times with just one draw call because all of their datas have already been loaded to the gpu.
 It's very important when we draw hundreds or thousands of times the same model.
 
-
+![](https://worgaros.github.io/Images/openwin.gif)
 
 ## Conclusion
 
