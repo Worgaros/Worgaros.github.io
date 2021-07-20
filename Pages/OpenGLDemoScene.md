@@ -46,7 +46,7 @@ To do my transparency houglass I use blending. It's a OpenGL functionality that 
 To do my cube I use normal mapping.
 Normal mapping allows models to use a normal map texture in addition to diffuse and specular textures.
 The positions are calculated in tangent space instead of world space using TBN matrix who do the changement of space.
-Normals are extracted from the normal map, assimp can directly extact tangent and bitangent.
+Normals are extracted from the normal map, assimp can directly extact tangent and bitangent to calcul TBN matrix.
 
 ![](https://worgaros.github.io/Images/openwin.gif)
 ![](https://worgaros.github.io/Images/openwin.gif)
@@ -57,6 +57,12 @@ To do my F1 car outline I use the stencil buffer.
 With the stencil buffer we use stencil mask to draw outlines around mesh by redrawing our mesh scale up, but with a unified color and without overriding the original mesh.
 
 ![](https://worgaros.github.io/Images/openwin.gif)
+
+### Skybox
+
+To do the background of my scene I use a cubemap.
+Cubemap is a graphic technic that gives the illusion that a three-dimensional space is infinite around you. 
+We use textures for each side of the cube.
 
 ## Optimisation
 
