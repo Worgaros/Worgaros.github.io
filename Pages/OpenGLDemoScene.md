@@ -52,6 +52,7 @@ To do my F1 car outline I use the stencil buffer.
 With the stencil buffer we use stencil mask to draw outlines around mesh by redrawing our mesh scale up, but with a unified color and without overriding the original mesh.
 
 
+## Optimisation
 
 ### Instancing
 
@@ -62,5 +63,6 @@ It's very important when we draw hundreds or thousands of times the same model.
 
 
 ## Conclusion
+
 
 ### [Back to main page](https://worgaros.github.io/)
