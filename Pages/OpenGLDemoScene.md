@@ -8,7 +8,7 @@ To do this demo scene I follow courses of my teachers Elias Farhan and Frederic 
 
 ## Scene
 
-My scene consist of an spatial library of objects where a objects with differents techniques of graphics techniques. The camera start at a position to see meteors and go front of the different objects each 10 seconds.
+My scene consist of an spatial library of objects with different techniques of graphics techniques. The camera start at a position to see meteors and go front of the different objects each 10 seconds.
 Among present objects there are a hourglass, a cube, a F1 car and meteors.
 
 ![](https://worgaros.github.io/Images/openwin.gif)
@@ -27,9 +27,9 @@ stb load the images whose path is specified in the .mtl of .obj.
 
 ### Lighting
 
-The ligthing technique applied to the models in the shaders is the Blinn phong method.
+The ligthing technique applied to the models in shaders is the Blinn phong method.
 It use ambient, diffuse and specular values to simulate lighting.
-It is not physically realistic but it gives a proper result for a simple demo scene.
+It is not physically realistic but it gives a nice result for a simple demo scene.
 
 Textures are given to shaders and included in values of ambiant, diffuse and specular.
 
@@ -37,7 +37,7 @@ Textures are given to shaders and included in values of ambiant, diffuse and spe
 
 ### Blending
 
-To do my transparency houglass I use blending. It's a OpenGL functionality that allows to blend colors using the alpha value.
+To do my transparency hourglass I use blending. It's a OpenGL functionality that allows to blend colors using the alpha value.
 
 ![](https://worgaros.github.io/Images/openwin.gif)
 
@@ -46,7 +46,7 @@ To do my transparency houglass I use blending. It's a OpenGL functionality that 
 To do my cube I use normal mapping.
 Normal mapping allows models to use a normal map texture in addition to diffuse and specular textures.
 The positions are calculated in tangent space instead of world space using TBN matrix who do the changement of space.
-Normals are extracted from the normal map, assimp can directly extact tangent and bitangent to calcul TBN matrix.
+Normals are extracted from the normal map, assimp can directly extract tangent and bi-tangent to calcul TBN matrix.
 
 ![](https://worgaros.github.io/Images/openwin.gif)
 ![](https://worgaros.github.io/Images/openwin.gif)
@@ -61,7 +61,7 @@ With the stencil buffer we use stencil mask to draw outlines around mesh by redr
 ### Skybox
 
 To do the background of my scene I use a cubemap.
-Cubemap is a graphic technic that gives the illusion that a three-dimensional space is infinite around you. 
+Cubemap is a graphic technique that gives the illusion that a three-dimensional space is infinite around you. 
 We use textures for each side of the cube.
 
 ## Optimisation
