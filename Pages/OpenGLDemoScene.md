@@ -8,7 +8,7 @@ To do this demo scene I follow courses of my teachers Elias Farhan and Frederic 
 
 ## Scene
 
-My scene consist of an spatial library of objects with different techniques of graphics techniques. The camera start at a position to see meteors and go front of the different objects each 10 seconds.
+My scene consist of an spatial library of objects with different graphics techniques. The camera start at a position to see meteors and go front of the different objects each 10 seconds.
 Among present objects there are a hourglass, a cube, a F1 car and meteors.
 
 ![](https://worgaros.github.io/Images/openglscene.gif)
@@ -17,11 +17,11 @@ Among present objects there are a hourglass, a cube, a F1 car and meteors.
 
 ### Model Loading
 
-Objects are .obj with their materials files. They are loaded with Assimp a library to load 3D models.
-Textures are images .png or .jpg. They are loaded with stb a library to load images.
+Objects are .obj with their materials files. They are loaded with Assimp, a library to load 3D models.
+Textures are images .png or .jpg. They are loaded with stb, a library to load images.
 
-Assimp load each mesh to then be able to display them.
-stb load the images whose path is specified in the .mtl of .obj.
+Assimp load each mesh to be able to display them.
+stb load the images whose path is specified in the .mtl.
 
 ### Lighting
 
@@ -69,7 +69,7 @@ We use textures for each side of the cube.
 ### Instancing
 
 To do my meteors I use instancing.
-Instancing is a method the draw the same model lots of times with just one draw call because all of their datas have already been loaded to the gpu.
+Instancing is a method to draw the same model lots of times with just one draw call because all of their datas have already been loaded to the gpu.
 It's very important when we draw hundreds or thousands of times the same model.
 
 ![](https://worgaros.github.io/Images/instancing.PNG)
@@ -78,8 +78,8 @@ It's very important when we draw hundreds or thousands of times the same model.
 I am happy to have learned a lot of computer graphics methods but I am not completely satisfied because if I have more time and especially if I will be able to manage my stress so as not to waste days having stress crises I could have added:
 
 - Frustum culling to don't draw object outside of the camera view.
-- Shadow map to use it with new object for the space library
-- PBR to have more realistic textures.
+- Shadow map to use it with a new object.
+- PBR to have physically realistic textures.
 - A camera with more complex movements like a camera that moves forward and turns, which does not just teleport.
 - Sounds to have a more alive scene feeling.
 
