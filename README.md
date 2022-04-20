@@ -13,3 +13,9 @@
 ## [Blog Post Scene Exporter Tool](https://worgaros.github.io/Pages/BPTool)
 
 ## [Blog Post OpenGl Demo Scene](https://worgaros.github.io/Pages/OpenGLDemoScene)
+
+## [Blog Post Spé 1](https://worgaros.github.io/Pages/BlogPostSpe1)
+
+## [Blog Post Spé 2](https://worgaros.github.io/Pages/BlogPostSpe2)
+
+## [Blog Post Spé 3](https://worgaros.github.io/Pages/BlogPostSpe3)
