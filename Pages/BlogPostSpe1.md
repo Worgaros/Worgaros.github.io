@@ -5,7 +5,7 @@
 
 During my 3rd year in Games Programming at the SAE Institute Geneva, we had the project to work together with several other sections on a video game. This game is part of the module 6204 also called specialization module which aims to specialize by having a role within a team and to learn to work in a project bigger in number of people and in objective than the previous ones.
 
-Instructions:
+### Instructions
 We had some requirements, such as that it be a City Builder video game using Unreal Engine 4 and that it have a similar art direction to The Legend of Zelda: Link's Awakening.
 
 Teams:
@@ -14,7 +14,7 @@ Here are the members of the programming team with their roles:
 
 image team programming
 
-My Roles:
+### My Roles
 Personally I had the role of Producer, I had to prepare and distribute programming tasks each week to the members of the team. I needed to take into account the team member's schedule as well as what the project manager wanted to integrate in the game each week.
 
 ### Pre-Prod
@@ -22,13 +22,13 @@ Personally I had the role of Producer, I had to prepare and distribute programmi
 Pre-production started in mid-September where we first had to do small tasks to learn how to use Unreal Engine 4 which we had only seen for a few hours the previous year.
 
 These are the tasks that have been done:
-	- Pathfinding: Oleg
-	- Grid system: Guillaume
-	- Creation of tools: Vincent
-	- Menus and button signals: Marvin
-	- Animated lava material: William
-	- Behavior trees: Lorna
-	- Game Design: Solange
+- Pathfinding: Oleg
+- Grid system: Guillaume
+- Creation of tools: Vincent
+- Menus and button signals: Marvin
+- Animated lava material: William
+- Behavior trees: Lorna
+- Game Design: Solange
 	
 Afterwards, we started to take control of our roles. I had to prepare a project on Jira, a tool for planning and assigning tasks for projects, by entering the tasks and distributing them in time and between people, taking into account the requests of the game designer and the project manager.
 
@@ -72,21 +72,21 @@ Acknowledgements
 I would like to thank everyone who contributed to the project.
 
 The teachers:
-	- Elias Farhan
-	- Nicolas Siorak
-	- Nicolas Vallée
-	- Laurent Vonlanthen
+- Elias Farhan
+- Nicolas Siorak
+- Nicolas Vallée
+- Laurent Vonlanthen
 	
 Externals:
-	- Nicolas Brière
-	- Nicolas Schneider
-	- Philippe Métral
-	- Frédéric Dubouchet
-	- Vincent Tinguely
-	- Guillaume Laugé
-	- Sylvain Cardin
-	- Duncan Bourquard
-	- Luca Floreau
+- Nicolas Brière
+- Nicolas Schneider
+- Philippe Métral
+- Frédéric Dubouchet
+- Vincent Tinguely
+- Guillaume Laugé
+- Sylvain Cardin
+- Duncan Bourquard
+- Luca Floreau
 	
 2nd year Games Programming students for tools:
 
