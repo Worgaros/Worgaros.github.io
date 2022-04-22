@@ -65,7 +65,7 @@ The MVP was the second milestone, which is a version of the game with all the me
 ### Rendering MLP
 
 We will be releasing the MLP version of the game, the fun-to-play version, on Tuesday 26 April 2022.
-It will be available on this page itch.io: [https://worgaros.github.io/](https://worgaros.github.io/)
+It will be available on this page itch.io: [https://volcanoteam.itch.io/voliday](https://volcanoteam.itch.io/voliday)
 
 ## Difficulties encountered
 
