@@ -1,45 +1,110 @@
 # Post-mortem Producer Voliday
 
-## Introduction
-As part of the 3rd bachelor year’s curriculum, students of the Games Programming section of the school are tasked with creating a video-game over the span of 7 months (end of september to end of april). During the scholar year of 2021 to 2022, the school, along with the support of its students, has organised a collaboration between the Game Programming, Game Art and Sound Engineering students which resulted in the project that culminated in the creation of Voliday, a city builder wholly created using the video-games’ industry’s standard tools.
+##Introduction
+###Context
 
-This collaboration ended up involving 39 people across the school sections mentioned above, and I had taken up the role of Project Lead. The Game Programming students acted as internal clients for the other teams of the project, establishing specifications and validating the work done by our teammates.
+During my 3rd year in Games Programming at the SAE Institute Geneva, we had the project to work together with several other sections on a video game. This game is part of the module 6204 also called specialization module which aims to specialize by having a role within a team and to learn to work in a project bigger in number of people and in objective than the previous ones.
 
-This was my first experience having to organise this many people, the biggest team I had to work with beforehand being composed of 4 people. Of the 39 people, 35 were students, such as myself, the remaining 4 being our teachers who acted as stakeholders for the project, only advising when requested or intervening under exceptional circumstances.
- 
-## Développement
-Such a project had presented us with many challenges I had little to no experience with. Let me go through the key ones in order.
+Instructions:
+We had some requirements, such as that it be a City Builder video game using Unreal Engine 4 and that it have a similar art direction to The Legend of Zelda: Link's Awakening.
 
-Firstly, in such a large team, good communication is absolutely critical. The most crucial tool to ensure a common vision of the project turned out to be copious and reasonably well designed presentations (we’ve used Google Slides for creating those). Below in an example of an opening slide we’ve used to explain the game design of our game to François Dumas, Ubisoft’s Audio Director who had the kindness to give the Sound Engineering Team a tailored month long course on the subject of audio production for video-games using Wwise:
+Teams:
+This project was not only composed of our Games Programming class but also of 3rd year classes from Audio Production and Game Art.
+Here are the members of the programming team with their roles:
 
-Exemple image
-![](https://worgaros.github.io/Images/openwin.gif)
+image team programming
 
-I will not go as far as saying that our presentations were flawless, but in the vast majority of situations they were an invaluable support to convey our idas to various people in a concise way, and thanks to Julien Kobler, the creator of the visual assets we’ve used, in a visually pleasing way as well.
+My Roles:
+Personally I had the role of Producer, I had to prepare and distribute programming tasks each week to the members of the team. I needed to take into account the team member's schedule as well as what the project manager wanted to integrate in the game each week.
 
-The second tool I have found to be invaluable to ensure good communication between the teams involved in the making of the game was having people in leadership positions be able to talk to each other directly face to face, on the premises of the school. Having started my curriculum before the COVID and now finishing it after the lifting of social restrictions, I can without a doubt say that there are simply too many opportunities for clarifications or for updating people that are lost when working in a fully remote environment. I do not suggest that a fully remote organisation of a team is impossible (there are plenty of cases of the contrary), however I do believe that fully remote work hinders communication greatly.
+### Pre-Prod
 
-A lot of clarifications, updates or miscommunications were addressed on the fly during simple small talk with our teammates in the hallways of the school. By the end of the project, I had personally taken the habit, before leaving school, to just walk by the places I knew my teammates liked to work to wave them goodbye and in many cases, this would result in them calling out to me to clarify something or update me on their progress, which I would then relay to the relevant people.
+Pre-production started in mid-September where we first had to do small tasks to learn how to use Unreal Engine 4 which we had only seen for a few hours the previous year.
 
-##Key Challenges: The Empathy
-The second challenge I’ve had to learn to face was improving my sense of empathy. While I am certainly not some heartless bastard, I did not prior to this project have many opportunities to hone my empathic skills. All prior cases where I was designated as the Project Lead, as was the case with this one as well, were due to my penchant to take initiative, not my social skills. This project however put me in a very interesting position: in a student project, one cannot simply display force to motivate people.
+These are the tasks that have been done:
+	- Pathfinding: Oleg
+	- Grid system: Guillaume
+	- Creation of tools: Vincent
+	- Menus and button signals: Marvin
+	- Animated lava material: William
+	- Behavior trees: Lorna
+	- Game Design: Solange
+	
+Afterwards, we started to take control of our roles. I had to prepare a project on Jira, a tool for planning and assigning tasks for projects, by entering the tasks and distributing them in time and between people, taking into account the requests of the game designer and the project manager.
 
-In a traditional work environment, each worker is remunerated (or at the very least ought to be) and if a worker underperforms, they run the risk of getting fired. This was not the case of this project since it was done in an educational context, in fact the licences of the software we’ve used explicitly forbid monetization of our work. Likewise, underperforming teammates could not be simply removed from the project and replaced. Everyone, with the exception of the Sound Engineering Team, had to participate to the best of their abilities in the project. It has however quickly become evident that different people have different priorities, varying amounts of available time, and differing motivations. The challenge therefore was, in an unconventional manner, to ensure that every member of the project had the opportunity to participate in the making of the game to the best of their personal circumstances.
+At the same time, the DevOps team had to prepare versioning software in order to have different backups and versions of the project at all times. The Game Designer had the most imposing task at the beginning of the project, he had to think the game by writing the goal, the objectives, the rules that had to be implemented. The Lead Programmer had to write how the game should be coded to keep the code uniform and clean. The project manager had to plan the end dates of the different versions of the game such as the prototype, the minimum viable product and the minimum lovable project.
 
-This basic constraint has forced the team members in positions of leadership, myself included, into an empathy driven mindset. If one wanted to fulfil their leadership role successfully, we had to be considerate and empathic since the only way left to get the most out of people was to understand their needs, objectives and limitations.
+Planning Failure:
+However, even with planning we were quite late in revising the milestone dates. This delay is mainly due to the fact that we took some time to get the hang of Unreal Engine 4 and also some common module renders just before the holidays.
+So at the end of December and beginning of January, we redid the milestones to have a more realistic schedule with what remained to be done and what we had time to do.
 
-I certainly do not pretend to be a very empathic leader (nor a very good leader for that matter), but this experience has definitely made me much more aware of other people’s experiences and showed me well the importance of empathy when working in a team, as well as exercise extensively my sense of empathy.
+images plannings
 
-I do wish to issue a warning however: in trying to motivate people by leading by example, one must not accumulate too many responsibilities, as ended up happening in my case. Our situation was a lucky one since the responsibilities I ended up picking up then slowly re-delegating to my teammates were ones I was able to reasonably fulfil thanks to my personal circumstances but such an approach is simply not viable in most cases. If you wish to read on it further, I’m leaving here a well put together blogpost explaining the concept of the “Hero Syndrome” in greater detail: https://www.linkedin.com/pulse/hero-syndrome-work-place-lance-charlton
+Artists:
 
-##Key Challenges: Working Together
-Lastly, the last key challenge I have faced and realised the importance of later than I would have liked was that of aligning individual and global goals. On multiple occasions, thinking doing best I’ve overstepped my responsibilities and in ensuring the progress of the project as a whole, would discard or override the work of individuals. While those actions might have looked optimal at the time, I quickly realised the negative effects of such an approach. Such actions are triply bad. First, it wastes effort: if the work is entirely discarded, that is a simple waste of a teammate’s time, and if the teammate’s work is replaced, that is not only the waste of said teammate’s time but also an additional workload taken up by someone else. Second, by discarding or replacing work deemed “insufficient”, one conveys the message to the teammate that has originally provided it that they bear no responsibility and as a consequence have no reason to take ownership of it. Thirdly, discarding or replacing someone’s work is obviously terrible for motivation and rather than doing so, it is very often possible to simply support them instead.
+We worked with the 3rd year Game Art students who produced the graphic assets for the Voliday game. They had to produce a large number of assets but despite this they kept to the deadlines.
 
-All of these considerations are subtle for someone working under stress which is why it is that much more important to avoid the “Hero Syndrome” as accumulating responsibilities will lead not only to potential ego conflicts but also to the diminishing of time allocated to each assumed responsibility, increasing the risk of the above situation occurring. One must always be mindful of the individual goals of one’s own teammates for the project to progress in a healthy way.
+Tools:
 
-## Conclusion
-To sum things up, this project has been a great opportunity not only to make a game to showcase in one’s own portfolio but has also been very instructive by giving me first hand experience of leading a large team and demonstrating the challenges and subtleties involved in such an endeavour. I would certainly have done many little things differently if I had the opportunity to start this project over, but considering my inexperience and the results we’ve achieved in the past 7 months, I am proud of the work of our team and very thankful to all the people who made this project possible.
+We also had the 2nd year games programming students produce tools for the project. We didn't use them because it would have taken us longer to integrate them into the project than to do without.
 
+Audio:
+
+We also worked with the 3rd year Audio Production students who produced the sound assets for the Voliday game. They had to produce a large number of assets but despite a slight delay the sounds and music should be present in the MLP version of the project.
+
+Prototype:
+
+The first milestone was the prototype of the game, a very simple visual version with the main gameplay mechanics. Initially scheduled for late December, it was pushed back to early February.
+
+MVP:
+
+The MVP was the second milestone, which is a version of the game with all the mechanics to make the game playable. Originally scheduled for early March, it was pushed back to late March.
+
+##Conclusion
+###Rendering MLP
+We will be releasing the MLP version of the game, the fun-to-play version, on Tuesday 26 April 2022.
+It will be available on this page itch.io: https://volcanoteam.itch.io/voliday
+Difficulties encountered
+My main difficulties with this project were that I initially felt like a bully handing out tasks to team members. Also to take into account the side commitments of the members while moving the requested tasks forward quite quickly. I also had the problem of having difficulty dividing time between programming and my Producer tasks, and there was a difficulty in communicating with some members which led to mixing up the tasks that needed to be done according to roles. And finally, getting to grips with Unreal and more particularly the blueprints took a lot of time because it was fairly new.
+What I learned
+As I got to know the team members I felt less of a bully, especially given their feedback. Depending on the side commitments I learned to redistribute tasks to other members if the person didn't have enough time to still make the project progress at the requested speed. I also learned to share my time by defining which days I was going to work on which task, whether it was programming or my Producer tasks. Communication problems were more or less solved through oral discussions and written documents. Then I was able to get to grips with Unreal and the blueprints over time with the help of my fellow students.
+Acknowledgements
+I would like to thank everyone who contributed to the project.
+
+The teachers:
+	- Elias Farhan
+	- Nicolas Siorak
+	- Nicolas Vallée
+	- Laurent Vonlanthen
+	
+Externals:
+	- Nicolas Brière
+	- Nicolas Schneider
+	- Philippe Métral
+	- Frédéric Dubouchet
+	- Vincent Tinguely
+	- Guillaume Laugé
+	- Sylvain Cardin
+	- Duncan Bourquard
+	- Luca Floreau
+	
+2nd year Games Programming students for tools:
+
+images 2eme annees
+
+Game Art students:
+
+image 
+
+Audio Production students:
+
+iamge
+
+And my 3rd year Games Programming classmates:
+
+image
 
 ### [Retour à la page principale](https://worgaros.github.io/)
 
+Exemple image
+![](https://worgaros.github.io/Images/openwin.gif)
