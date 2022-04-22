@@ -8,7 +8,7 @@ During my 3rd year of Games Programming at SAE Institute Geneva, I had to partic
 
 ## Tools
 
-Jira:
+### Jira
 
 I used Jira to plan the tasks of the members of the 3rd year Games Programming team. Jira is a project management software, you can follow the progress of tasks and bugs in a project.
 Here is an example of a task on Jira:
@@ -17,13 +17,13 @@ image jira
 
 It also allows us to see where we are in the progress of the project in relation to the dates of our milestones.
 
-Google Drive:
+### Google Drive
 
 We used Google Drive to store our documents whether it be documentation for using software or even our presentations.
 
 image drive
 
-Discord:
+### Discord
 
 We used Discord to maintain regular contact between all project members through written channels and audio rooms for each section and in common.
 Here is an overview of the discord:
@@ -35,7 +35,7 @@ I had difficulties with Jira at first because I was not at all familiar with how
 
 ##Conclusion
 
-	To conclude, it is important to take the time to understand the software yourself to be able to create explanatory documents but also to listen to the needs of others so that they have all the necessary tools to work properly.
+To conclude, it is important to take the time to understand the software yourself to be able to create explanatory documents but also to listen to the needs of others so that they have all the necessary tools to work properly.
 
 
 ### [Retour à la page principale](https://worgaros.github.io/)
