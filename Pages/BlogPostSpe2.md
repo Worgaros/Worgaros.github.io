@@ -2,7 +2,7 @@
 
 ## Introduction
 
-###Context
+### Context
 
 During my 3rd year of Games Programming at SAE Institute Geneva, I had to participate in a specialization project where we had to create a City Builder game on Unreal Engine 4 playable on PC with an art direction close to The Legend of Zelda: Link's Awakening. I mainly had to work on the AI of this game, called Voliday, which are tourists coming to spend their holidays on an island where they perform activities. 
 To create the AIs we used a behavior tree and a blackboard from Unreal Engine 4.
