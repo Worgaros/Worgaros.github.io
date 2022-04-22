@@ -9,9 +9,9 @@ To create the AIs we used a behavior tree and a blackboard from Unreal Engine 4.
 
 ## Definitions
 
-A behavior tree is a mathematical model of plan execution.
-Values used in the behavior tree are stored in the blackboard.
-Tasks are nodes that do things like move the AI or adjust blackboard values.
+- A behavior tree is a mathematical model of plan execution.
+- Values used in the behavior tree are stored in the blackboard.
+- Tasks are nodes that do things like move the AI or adjust blackboard values.
 
 ## Development
 
