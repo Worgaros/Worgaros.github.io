@@ -66,11 +66,16 @@ The MVP was the second milestone, which is a version of the game with all the me
 
 We will be releasing the MLP version of the game, the fun-to-play version, on Tuesday 26 April 2022.
 It will be available on this page itch.io: https://volcanoteam.itch.io/voliday
-Difficulties encountered
+
+## Difficulties encountered
+
 My main difficulties with this project were that I initially felt like a bully handing out tasks to team members. Also to take into account the side commitments of the members while moving the requested tasks forward quite quickly. I also had the problem of having difficulty dividing time between programming and my Producer tasks, and there was a difficulty in communicating with some members which led to mixing up the tasks that needed to be done according to roles. And finally, getting to grips with Unreal and more particularly the blueprints took a lot of time because it was fairly new.
-What I learned
+
+## What I learned
+
 As I got to know the team members I felt less of a bully, especially given their feedback. Depending on the side commitments I learned to redistribute tasks to other members if the person didn't have enough time to still make the project progress at the requested speed. I also learned to share my time by defining which days I was going to work on which task, whether it was programming or my Producer tasks. Communication problems were more or less solved through oral discussions and written documents. Then I was able to get to grips with Unreal and the blueprints over time with the help of my fellow students.
-Acknowledgements
+
+##Acknowledgements
 I would like to thank everyone who contributed to the project.
 
 The teachers:
