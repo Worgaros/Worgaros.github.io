@@ -12,7 +12,7 @@ We had some requirements, such as that it be a City Builder video game using Unr
 This project was not only composed of our Games Programming class but also of 3rd year classes from Audio Production and Game Art.
 Here are the members of the programming team with their roles:
 
-image team programming
+![](https://worgaros.github.io/Images/progteam.png)
 
 ### My Roles
 Personally I had the role of Producer, I had to prepare and distribute programming tasks each week to the members of the team. I needed to take into account the team member's schedule as well as what the project manager wanted to integrate in the game each week.
@@ -38,7 +38,9 @@ At the same time, the DevOps team had to prepare versioning software in order to
 However, even with planning we were quite late in revising the milestone dates. This delay is mainly due to the fact that we took some time to get the hang of Unreal Engine 4 and also some common module renders just before the holidays.
 So at the end of December and beginning of January, we redid the milestones to have a more realistic schedule with what remained to be done and what we had time to do.
 
-images plannings
+![](https://worgaros.github.io/Images/planning1.png)
+
+![](https://worgaros.github.io/Images/planning2.png)
 
 ## Artists
 
@@ -97,21 +99,18 @@ Externals:
 	
 2nd year Games Programming students for tools:
 
-images 2eme annees
+![](https://worgaros.github.io/Images/toolteam.png)
 
 Game Art students:
 
-image 
+![](https://worgaros.github.io/Images/artteam.png)
 
 Audio Production students:
 
-iamge
+![](https://worgaros.github.io/Images/audioteam.png)
 
 And my 3rd year Games Programming classmates:
 
-image
+![](https://worgaros.github.io/Images/progteam.png)
 
 ### [Retour à la page principale](https://worgaros.github.io/)
-
-Exemple image
-![](https://worgaros.github.io/Images/openwin.gif)

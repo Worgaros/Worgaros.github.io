@@ -39,6 +39,3 @@ To conclude, it is important to take the time to understand the software yoursel
 
 
 ### [Retour à la page principale](https://worgaros.github.io/)
-
-Exemple image
-![](https://worgaros.github.io/Images/openwin.gif)

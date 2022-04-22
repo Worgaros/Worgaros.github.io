@@ -57,6 +57,3 @@ To conclude, it is very important to be sure to understand the tasks you have to
 
 
 ### [Retour à la page principale](https://worgaros.github.io/)
-
-Exemple image
-![](https://worgaros.github.io/Images/openwin.gif)
