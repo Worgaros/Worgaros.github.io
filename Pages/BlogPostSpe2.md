@@ -41,6 +41,7 @@ I handed over my AI task to a colleague so I could work on something else.
 ### Resume back my classmate work
 
 I was surprised when I came back to take over my AI task, because my colleague redid the whole behavior tree. After discussion it was due to the fact that the way he told me to do it was not optimal to add satisfaction to the AI. I should have asked the game designer before I started. Fearing that I wouldn't have the time to figure out how to do it, and without asking me for help, he decided to redo it to figure it all out and add satisfaction to the AIs.
+
 After taking the time to understand with his help how he made the behavior tree, I added the fact that the AI instead of choosing a house randomly it chooses the house with the least amount of people in it. I then replaced the AI model which was a white cone with the model given by the Game Art students while waiting for Vincent to add the animations. I then corrected two major bugs which were that if you delete some buildings the AI would get stuck because it couldn't continue to browse the behavior tree, so I forced it to continue to browse the behavior tree at those times so it wouldn't get stuck. The second bug was that when you pause the game the AI if the AI was in a waiting task it would even pause the satisfaction and spending tasks, to avoid this I put the waiting task at the end so that the behavior tree would pause directly after it.
 
 ## Difficulties encountered
