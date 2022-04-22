@@ -32,7 +32,7 @@ Then there is a check if the AI still has enough money it continues to perform t
 
 ![](https://worgaros.github.io/Images/startbehavior.jpg)
 
-Here is a complete overview of the order of the behavior tree’s task:
+Here is a complete overview of the order of the behavior tree’s tasks:
 
 ![](https://worgaros.github.io/Images/allbehavior.jpg)
 
