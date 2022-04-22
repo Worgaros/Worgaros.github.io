@@ -22,7 +22,7 @@ I took the AI already started by one of my classmates, the AI is composed of a c
 
 I modified the behavior tree by starting, at the arrival of the AI on the island, by giving to variables of the blackboard the position of its dwelling chosen randomly but by taking into account if it is a rich or poor and also the position of the port so that it can return there to leave the island while taking into account to distribute them well according to the available places.
 
-![](https://worgaros.github.io/Images/startbehavior.jpg)
+![](https://worgaros.github.io/Images/endbehavior.jpg)
 
 Then I kept the system of the task which sends towards a destination which this time takes into account the position of the building. Once there, the AI pays for its stay and then waits before randomly choosing one of the activities that is allowed and accessible. Then it goes there and waits before paying the price of the activity.
 
@@ -30,7 +30,7 @@ Then I kept the system of the task which sends towards a destination which this 
 
 Then there is a check if the AI still has enough money it continues to perform the loop of activities until it has none left. If it has more, it goes to the port or despawns to simulate its departure.
 
-![](https://worgaros.github.io/Images/endbehavior.jpg)
+![](https://worgaros.github.io/Images/startbehavior.jpg)
 
 Here is a complete overview of the order of the behavior tree’s task:
 
