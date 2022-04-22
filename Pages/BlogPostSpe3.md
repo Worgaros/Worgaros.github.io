@@ -13,7 +13,7 @@ During my 3rd year of Games Programming at SAE Institute Geneva, I had to partic
 I used Jira to plan the tasks of the members of the 3rd year Games Programming team. Jira is a project management software, you can follow the progress of tasks and bugs in a project.
 Here is an example of a task on Jira:
 
-image jira
+![](https://worgaros.github.io/Images/taskjira.png)
 
 It also allows us to see where we are in the progress of the project in relation to the dates of our milestones.
 
@@ -21,14 +21,14 @@ It also allows us to see where we are in the progress of the project in relation
 
 We used Google Drive to store our documents whether it be documentation for using software or even our presentations.
 
-image drive
+![](https://worgaros.github.io/Images/drive.png)
 
 ### Discord
 
 We used Discord to maintain regular contact between all project members through written channels and audio rooms for each section and in common.
 Here is an overview of the discord:
 
-image discord
+![](https://worgaros.github.io/Images/discord.png)
 
 ## Difficulties encountered
 I had difficulties with Jira at first because I was not at all familiar with how it worked. I had to do several tests to get the hang of it so that I could create a document that explained how it worked to other members who needed to use it. I had to think about how to organize and create a file that explains where to put the documents so that all the members of the project could use it properly. With Discord I encountered the problem that some discussions could not be posted on the existing channels and so depending on the requests I had to create, modify and sometimes delete written and audio channels so that everyone had a place to exchange without infringing on other conversations. Due to the large number of channels I had to create a document to explain the functionality of each of them as well as adding these explanations to the channel descriptions.
