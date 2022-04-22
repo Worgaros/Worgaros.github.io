@@ -1,7 +1,7 @@
 # Post-mortem of Voliday
 
-##Introduction
-###Context
+## Introduction
+### Context
 
 During my 3rd year in Games Programming at the SAE Institute Geneva, we had the project to work together with several other sections on a video game. This game is part of the module 6204 also called specialization module which aims to specialize by having a role within a team and to learn to work in a project bigger in number of people and in objective than the previous ones.
 
@@ -60,8 +60,8 @@ MVP:
 
 The MVP was the second milestone, which is a version of the game with all the mechanics to make the game playable. Originally scheduled for early March, it was pushed back to late March.
 
-##Conclusion
-###Rendering MLP
+## Conclusion
+### Rendering MLP
 We will be releasing the MLP version of the game, the fun-to-play version, on Tuesday 26 April 2022.
 It will be available on this page itch.io: https://volcanoteam.itch.io/voliday
 Difficulties encountered
